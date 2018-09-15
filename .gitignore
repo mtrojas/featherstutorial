@@ -107,6 +107,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Environment Variables should NEVER be published
+.env
+
 # Others
 lib/
 data/
+
